@@ -1,8 +1,8 @@
 ## Hi there 👋
-Nome Claudia Sales Noda
-estou estudando no Alura
-estou estudando JavaScript
-Utilizo esse espaco para compartilhar meus projetos
+## Nome Claudia Sales Noda
+## estou estudando no Alura
+## estou estudando JavaScript
+## Utilizo esse espaco para compartilhar meus projetos
 
 
 <!--
