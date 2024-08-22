@@ -1,4 +1,9 @@
 ## Hi there 👋
+Nome Claudia Sales Noda
+estou estudando no Alura
+estou estudando JavaScript
+Utilizo esse espaco para compartilhar meus projetos
+
 
 <!--
 **imperio-contra-ataca/imperio-contra-ataca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
